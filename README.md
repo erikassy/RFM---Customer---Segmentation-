@@ -131,6 +131,9 @@ The segmentation helped identify:
 - Lost customers who may require reactivation strategies
 - New customers who present an opportunity for further engagement
 
+### Customer Segmentation Table Preview
+![Customer_Segmentation](images/Customer_Segmentation.JPG)
+
 ### Revenue Performance
 
 The analysis also examined revenue contribution across customer segments, regions, and product categories to identify areas of strong and weak performance.
