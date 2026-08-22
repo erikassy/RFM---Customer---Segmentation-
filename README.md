@@ -162,8 +162,8 @@ The dashboard provides insights into:
 
 ### Dashboard Preview
 
-![RFM Dashboard](images/Sales_overview.jpg)
-![RFM Dashboard](images/RFM_Customer_Segmentation.jpg)
+![RFM Dashboard 1](images/Sales_overview.jpg)
+![RFM Dashboard 2](images/RFM_Customer_Segmentation.jpg)
 
 ## Project Files
 
