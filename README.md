@@ -6,6 +6,10 @@ This project analyzes customer purchasing behaviour for a retail business using 
 
 The analysis segments customers based on their purchasing behaviour, engagement, and overall value to the business. The objective is to identify high-value customers, loyal customers, customers at risk of churning, and other customer segments that can support targeted retention and marketing strategies.
 
+![Sales Overview](images/Sales_overview.JPG)
+![RFM Customer Segmentation](images/RFM_Customer_Segmentation.JPG)
+
+
 ## Business Problem
 
 The business has transaction-level customer data but lacks a clear understanding of which customers are most valuable, which customers are highly engaged, and which customers may be at risk of becoming inactive.
@@ -169,11 +173,6 @@ The dashboard provides insights into:
 - Product category performance
 - Regional performance
 - RFM metrics
-
-### Dashboard Preview
-
-![Sales Overview](images/Sales_overview.JPG)
-![RFM Customer Segmentation](images/RFM_Customer_Segmentation.JPG)
 
 ## Project Files
 
