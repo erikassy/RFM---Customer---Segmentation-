@@ -119,6 +119,8 @@ The resulting segments include:
 - Lost Customers
 - New Customers
 
+![RFM](images/RFM.JPG)
+
 ## Key Insights
 
 The analysis identified differences in customer behaviour across the various segments.
