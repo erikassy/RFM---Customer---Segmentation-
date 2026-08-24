@@ -36,7 +36,9 @@ The main objectives of this analysis are to:
 
 The analysis was conducted using a transactional sales dataset containing customer purchase records.
 
-**Source:** Kaggle – Applied Data Analytics Training Centre
+**Source:** Kaggle
+[View the dataset on Kaggle]
+(https://www.kaggle.com/datasets/charmmyaeaung/raw-sales-dataset-for-rfm-customer-segmentation)
 
 ### Dataset Structure
 
