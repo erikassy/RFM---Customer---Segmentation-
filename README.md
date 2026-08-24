@@ -139,6 +139,7 @@ The segmentation helped identify:
 ### Revenue Performance
 
 The analysis also examined revenue contribution across customer segments, regions, and product categories to identify areas of strong and weak performance.
+![Revenue](images/Revenue.JPG)
 
 ## Recommendations
 
